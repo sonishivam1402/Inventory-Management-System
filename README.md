@@ -8,7 +8,7 @@ A backend API for managing inventory, suppliers, purchases, and stock movements.
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone (https://github.com/sonishivam1402/Inventory-Management-System)
    cd <project-directory>/Server
    ```
 
